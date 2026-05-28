@@ -66,25 +66,25 @@
 
         <div class="absolute top-full left-0 hidden group-hover:block bg-white shadow-xl rounded-xl overflow-hidden border border-gray-100 min-w-[220px] z-[9999]">
 
-          <p class="px-5 py-3 hover:bg-green-700 hover:text-white cursor-pointer transition">
+          <router-link to="/kgl"><p class="px-5 py-3 hover:bg-green-700 hover:text-white cursor-pointer transition">
             Kigali City
-          </p>
+          </p></router-link>
 
-          <p class="px-5 py-3 hover:bg-green-700 hover:text-white cursor-pointer transition">
+          <router-link to="/Nrth"><p class="px-5 py-3 hover:bg-green-700 hover:text-white cursor-pointer transition">
             Northern Province
-          </p>
+          </p></router-link>
 
-          <p class="px-5 py-3 hover:bg-green-700 hover:text-white cursor-pointer transition">
+          <router-link to="/Sth"><p class="px-5 py-3 hover:bg-green-700 hover:text-white cursor-pointer transition">
             Southern Province
-          </p>
+          </p></router-link>
 
-          <p class="px-5 py-3 hover:bg-green-700 hover:text-white cursor-pointer transition">
+          <router-link to="/Est"><p class="px-5 py-3 hover:bg-green-700 hover:text-white cursor-pointer transition">
             Eastern Province
-          </p>
+          </p></router-link>
 
-          <p class="px-5 py-3 hover:bg-green-700 hover:text-white cursor-pointer transition">
+          <router-link to="/Wst"><p class="px-5 py-3 hover:bg-green-700 hover:text-white cursor-pointer transition">
             Western Province
-          </p>
+          </p></router-link>
 
         </div>
 
