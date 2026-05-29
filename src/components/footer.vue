@@ -41,7 +41,7 @@
         <h3 class="text-lg font-semibold mb-4">Contact</h3>
 
         <p class="text-slate-300 mb-2">Kigali, Rwanda</p>
-        <p class="text-slate-300 mb-2">+250 788 60 643</p>
+        <p class="text-slate-300 mb-2">+250 796 76 516</p>
         <p class="text-slate-300">info@visitrwanda.com</p>
 
         <div class="flex gap-4 mt-6">
